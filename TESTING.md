@@ -2,6 +2,7 @@
 
 
 
+
 In order to make sure that your work does not introduce regression issues or unexpected changes, there are two tools that you are encouraged to use: [org.civicrm.styleguide](https://github.com/civicrm/org.civicrm.styleguide/) and [BackstopJS](https://github.com/garris/BackstopJS).
 
 The styleguide provides you with a page that showcases the entire base Bootstrap theme + custom modifiers in a single page, so that you can check how they look like in Shoreditch and how your changes affect the theme and its components.
